@@ -134,19 +134,6 @@
 
 ---
 
-<div style="position:relative;width:100%">
-<img src="joe.jpg" style="width:100%">
-<blockquote style="position:absolute;top:100px;left:50px;width:45%;opacity:0.7;">
-<dl>
-<dt>There’s no such thing as fast, only fast enough.</dt>
-<dd>— Joe Armstrong, Inventor of Erlang</dd>
-</dl>
-</blockquote>
-</img>
-</div>
-
----
-
 # Optimization Fixation
 
 ---
@@ -192,14 +179,6 @@
 - Often works forever
 - Cheap
 - Gets you to the actual problems
-
----
-
-## Pointy Hair Argument
-
-- Cost of work is _almost always_ under estimated
-- Value of work is _often_ over estimated
-- Keep work as small as possible, improve incrementally
 
 ---
 
@@ -308,7 +287,5 @@ Send packet CA->Netherlands->CA     150,000,000   ns
 
 ---
 
-# Discussion
-
-### Yell at me on Twitter!
-## @gar1t
+## Yell at me on Twitter!
+# @gar1t
