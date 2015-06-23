@@ -5,7 +5,7 @@ data(_) ->
       title       => "Scalable Is Awesome, Literally!",
       description => "A presentation by Garrett Smith at Devoxx Poland, "
                      "Krawkow on June 12, 2015",
-      where       => "Devoxx, Poland",
+      where       => "Devoxx Poland",
       date        => "June 23, 2015",
       author      => "Garrett Smith",
       twitter     => "gar1t",

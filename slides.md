@@ -45,7 +45,7 @@
 
 ---
 
-> I wrote an <s>scalable</s> awesome Erlang system for my client. The system can handle hundreds of thousands of clients on EC2 and uses up to 200 instances in simulation.
+> I wrote <s>a scalable</s> an awesome Erlang system for my client. The system can handle hundreds of thousands of clients on EC2 and uses up to 200 instances in simulation.
 
 ---
 
